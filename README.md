@@ -1,4 +1,4 @@
-# [Büro Adı] Hukuk & Danışmanlık — Statik Web Sitesi
+# Tüfek & Türkan Hukuk Bürosu — Statik Web Sitesi
 
 Büyük ölçekli şirketlere ve yabancı müvekkillere yönelik, **iki dilli (TR/EN)**, modern ve statik bir hukuk bürosu web sitesi. Derleme adımı yoktur — saf HTML/CSS/JS.
 
